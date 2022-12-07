@@ -2,4 +2,4 @@
 
 Esta saga de libros cuenta la historia de Larry Plotter, un hacker excepcional.
 
-**Manuel Ruiz**, git fan
+**Manuel Ruiz**, git & Larry Plotter fan
